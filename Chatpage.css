@@ -1,0 +1,47 @@
+
+
+
+
+.abc{
+    background-image: url("https://i.pinimg.com/originals/d3/6b/cc/d36bcceceaa1d390489ec70d93154311.jpg");
+    height: 750px;
+    width: 540px;
+    border: solid 2px black;
+    margin: auto;
+    overflow-y: scroll;
+    
+    
+    
+}
+.bcd{
+    text-align: center;
+    color:white;
+    background-color: rgb(47, 47, 63) ;
+    padding-bottom:  5px;
+    padding-top: 5px;
+    font-size: smaller;
+    margin-bottom: 40px;
+    
+}
+
+.cde{
+    color : white;
+    background-color: #3295ca;
+    padding: 9px;
+    text-align: end;
+    border-radius: 15px 15px 0px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+.def{
+    color : white;
+    background-color: hsla(0, 2%, 35%, 0.913);
+    padding: 10px;
+    text-align: start;
+    border-radius: 15px 15px 15px 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
